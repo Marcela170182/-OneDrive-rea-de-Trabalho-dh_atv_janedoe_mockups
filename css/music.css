@@ -1,0 +1,19 @@
+.music-content{
+    margin: 180px auto 20px;
+    max-width: 70%;
+}
+
+.music-title{
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+}
+
+.video-description{
+    padding: 20px;
+}
+
+
+.video-frame{
+    border:5px solid black;
+}
